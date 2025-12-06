@@ -61,10 +61,6 @@ const UserDropdown = () => {
             <nav className="sm:hidden">
                 <NavItems />
             </nav>
-            {/* <DropdownMenuItem className="cursor-pointer">Profile</DropdownMenuItem>
-            <DropdownMenuItem className="cursor-pointer">Billing</DropdownMenuItem>
-            <DropdownMenuItem className="cursor-pointer">Team</DropdownMenuItem>
-            <DropdownMenuItem className="cursor-pointer">Subscription</DropdownMenuItem> */}
         </DropdownMenuContent>
     </DropdownMenu>
   )
