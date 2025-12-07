@@ -1,7 +1,6 @@
 'use client'
 
 import { NAV_ITEMS } from "@/lib/constants"
-import { Search } from "lucide-react"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import SearchCommand from "./SearchCommand"
